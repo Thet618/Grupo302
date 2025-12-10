@@ -1,0 +1,13 @@
+
+print("====================================")
+print("            CARÁTULA")
+print("====================================")
+print("Nombre del estudiante: Juan Carloa Alvarez Ortiz")
+print("Nombre del estudiante: Karla Nitzy Avila Hernandez")
+print("Nombre del estudiante: Dylan Yael Hernandez Martinez")
+print("Nombre del estudiante: Daniel Martinez Zepeta")
+print("Nombre del estudiante: Abisai Quiroz Martinez")
+print("Materia: Programación")
+print("Profesor: Sergio Ibañes Montiel")
+print("Fecha: 10/12/2025")
+print("====================================")
